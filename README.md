@@ -6,6 +6,8 @@
 - unusual actions
 - choisis un linktree de compte de social media de qurlqu'un , add/ouvre external links vers plusieurs  compte de social média in popuplinks
 
+details
+-
 
 - choisis un compte de social média pour se connecter 
 
