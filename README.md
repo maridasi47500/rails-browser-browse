@@ -1,4 +1,11 @@
 # rails-browser-browse
+- usual actions :
+- utilise appareil photo, microphone, gps, pour faire une vidéo /la publier ou non
+- utilse ton browser , scraper, posts ou  videos avec des gems/libraries
+- hacking project :  ensure client receive requets, with port and binding port
+- unusual actions
+- choisis un linktree de compte de social media de qurlqu'un , add/ouvre external links vers plusieurs  compte de social média in popuplinks
+
 
 - choisis un compte de social média pour se connecter 
 
